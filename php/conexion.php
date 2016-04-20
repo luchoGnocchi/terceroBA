@@ -8,7 +8,9 @@
 	if($conexion->connect_errno >0)
 	{
 		die('No se pudo conectar a la base de datos');
-	}
+	
+}
+
  ?>
 
 

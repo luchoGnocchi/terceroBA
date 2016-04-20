@@ -7,6 +7,10 @@
 		
 	if($conexion->connect_errno >0)
 	{
+
+
+		asdads
+		
 		die('No se pudo conectar a la base de datos');
 	}
  ?>
